@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+  <div align="center">
+  </div id='table-data'>
+  {% for table in tables %}
+
+  <table>
+    <thead>
+      <tr>
+        <th>8/1, Saat Mosjid Housing, Dhaka 1207</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Room</td>
+        <td>{{ table.room }}</td>
+      </tr>
+      <tr>
+        <td>Tenant Name</td>
+        <td>{{ table.Tenant }}</td>
+      </tr>
+      <tr>
+        <td>Bill Month</td>
+        <td>{{ table['Bill Month'] }}</td>
+      </tr>
+      <tr>
+        <td>Rent Month</td>
+        <td>{{ table['Rent Month'] }}</td>
+      </tr>
+      <tr>
+        <td>Rent</td>
+        <td>{{ table.Rent }}</td>
+      </tr>
+      <tr>
+        <td>Rent - 500</td>
+        <td>{{ table['Rent-500(gas)'] }}</td>
+      </tr>
+      <tr>
+        <td>Previous Unit</td>
+        <td>{{ table['Previous Unit'] }}</td>
+      </tr>
+      <tr>
+        <td>Current Unit</td>
+        <td>{{ table['Current Unit'] }}</td>
+      </tr>
+      <tr>
+        <td>Electricity Used</td>
+        <td>{{ table['Electricity Used'] }}</td>
+      </tr>
+      <tr>
+        <td>Tk/Unit</td>
+        <td>{{ table['Tk/Unit'] }}</td>
+      </tr>
+      <tr>
+        <td>Electricity Bill</td>
+        <td>{{ table['Electricity Bill'] }}</td>
+      </tr>
+      <tr>
+        <td>Waste Bill</td>
+        <td>{{ table['Waste Bill'] }}</td>
+      </tr>
+      <tr>
+        <td>Due</td>
+        <td>{{ table['Due'] }}</td>
+      </tr>
+      <tr>
+        <td>Total Bill</td>
+        <td>{{ table['total-gas500'] }}</td>
+      </tr>
+    </tbody>
+  </table>
+  {% endfor %}
+  </div>
+  </div>
+  <style>
+    table th {
+      border: 0;
+    }
+
+    table td {
+      border: 2px solid black;
+      padding: 9px;
+    }
+
+    @media print {
+      table {
+        page-break-after: always;
+        width: 100%;
+        border-collapse: collapse;
+        font-size: xx-large;
+      }
+
+      table th {
+        border: 0;
+      }
+
+      table td {
+        border: 2px solid black;
+        padding: 9px;
+      }
+    }
+  </style>
+</body>
+
+</html>

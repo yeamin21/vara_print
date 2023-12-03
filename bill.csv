@@ -1,0 +1,31 @@
+room,Tenant,NID,Rent,Rent-500(gas),Waste Bill,Previous Unit,Current Unit,Electricity Used,Tk/Unit,Electricity Bill,Gas Bill,Due,Total Bill,total-gas500,Bill Month,Rent Month,G Merge Status,Email Tracking Status,Document URL,G Merge Id,[Document Studio] File Status,[Document Studio] File Link,Merge status,Generated File Link
+101,Mohiruddin,,5800,5300,130,9594,9651,57,8.5,484.5,0,,6415,5915,November,December,,,,,,,GENERATED,<<Room>> 1
+102,Al-amin,,5700,5200,130,8011,8041,30,8.5,255,0,0,6085,5585,November,December,,,,,,,GENERATED,<<Room>> 2
+103,Sobuj,,5700,5200,130,8739,8816,77,8.5,654.5,0,,6485,5985,November,December,,,,,,,GENERATED,<<Room>> 3
+104,Zakir,,5700,5200,130,11027,11098,71,8.5,603.5,0,0,6434,5934,November,December,,,,,,,GENERATED,<<Room>> 4
+105,Samia,,5700,5200,130,6962,6970,8,8.5,68,0,0,5898,5398,November,December,,,,,,,GENERATED,<<Room>> 5
+106,Kamal,,5900,5400,130,9230,9299,69,8.5,586.5,0,,6617,6117,November,December,,,,,,,GENERATED,<<Room>> 6
+107,Yusuf Ali,1016844985,5700,5200,130,10025,10126,101,8.5,858.5,0,0,6689,6189,November,December,,,,,,,GENERATED,<<Room>> 7
+108,Fatema,,5700,5200,130,329,361,32,8.5,272,0,,6102,5602,November,December,,,,,,,GENERATED,<<Room>> 8
+109,Selim 2,,7000,6500,130,11088,11152,64,8.5,544,0,,7674,7174,November,December,,,,,,,GENERATED,<<Room>> 9
+201,Jaynal Abedin,,5900,5400,130,7758,7862,104,8.5,884,0,,6914,6414,November,December,,,,,,,GENERATED,<<Room>> 10
+202,Rahim,,5700,5200,130,6894,6962,68,8.5,578,0,0,6408,5908,November,December,,,,,,,GENERATED,<<Room>> 11
+203,Sonjib,,5700,5200,130,8346,8404,58,8.5,493,0,0,6323,5823,November,December,,,,,,,GENERATED,<<Room>> 12
+204,Mohammad Ali,,5700,5200,130,6826,6878,52,8.5,442,0,0,6272,5772,November,December,,,,,,,GENERATED,<<Room>> 13
+205,Juyel 1,,5900,5400,130,7762,7854,92,8.5,782,0,0,6812,6312,November,December,,,,,,,GENERATED,<<Room>> 14
+206,Juyel (Ariba),,6000,5500,130,2886,2985,99,8.5,841.5,0,0,6972,6472,November,December,,,,,,,GENERATED,<<Room>> 15
+207,Rajia,,5900,5400,130,6293,6331,38,8.5,323,0,0,6353,5853,November,December,,,,,,,GENERATED,<<Room>> 16
+208,Hanif,,5900,5400,130,4140,4236,96,8.5,816,0,0,6846,6346,November,December,,,,,,,GENERATED,<<Room>> 17
+209,Swopon,,7500,7000,130,4614,4668,54,8.5,459,0,0,8089,7589,November,December,,,,,,,GENERATED,<<Room>> 18
+,,,107100,98100,,,,,,9945,,0,119388,110388,,,,,,,,,GENERATED,<<Room>> 19
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,GENERATED,<<Room>> 20
+,,,,,,,,,,,,,,,,,,,,,,,GENERATED,<<Room>> 21
